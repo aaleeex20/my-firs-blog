@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+alexvenv
+db.sqlite3
+/static
+.DB_Store
